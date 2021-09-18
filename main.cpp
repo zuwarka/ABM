@@ -6,5 +6,9 @@
 
 int main()
 {
+	__asm
+	{
+		//some code
+	}
 	return 0;
 }
